@@ -18,8 +18,11 @@ This: https://github.com/github/hubot-scripts/blob/master/src/scripts/http-info.
 
 Importing jsdom into a hubot script was broken with this error:
 
+```
 hubot/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:2
 const xnv = require("xml-name-validator");
 ^^^^^
 
 /hubot/node_modules/hubot-scripts/src/scripts/http-info: SyntaxError: Use of const in strict mode.
+```
+
