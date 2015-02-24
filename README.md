@@ -16,7 +16,7 @@ This: https://github.com/github/hubot-scripts/blob/master/src/scripts/http-info.
 
 ## Why does this exist?
 
-I was having troubles with hubot and jsdom - specifically with jsdom import failing with this error:
+Importing jsdom into a hubot script was broken with this error:
 
 hubot/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:2
 const xnv = require("xml-name-validator");
