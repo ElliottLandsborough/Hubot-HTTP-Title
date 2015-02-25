@@ -12,7 +12,6 @@
 # Configuration:
 #   HUBOT_HTTP_INFO_IGNORE_URLS - RegEx used to exclude Urls
 #   HUBOT_HTTP_INFO_IGNORE_USERS - Comma-separated list of users to ignore
-#   HUBOT_HTTP_INFO_IGNORE_DESC - Optional boolean indicating whether a site's meta description should be ignored
 #
 # Commands:
 #   http(s)://<site> - prints the title and meta description for sites linked.
