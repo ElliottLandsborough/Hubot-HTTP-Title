@@ -5,9 +5,9 @@
 #   npm install underscore --save
 #
 # Dependencies:
-#   "request": "0.8.10"
-#   "cheerio": "???"
-#   "underscore": "1.3.3"
+#   "request": "^2.53.0"
+#   "cheerio": "^0.18.0"
+#   "underscore": "^1.8.2"
 #
 # Configuration:
 #   HUBOT_HTTP_INFO_IGNORE_URLS - RegEx used to exclude Urls
