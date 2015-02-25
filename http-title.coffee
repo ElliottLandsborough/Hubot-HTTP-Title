@@ -14,7 +14,7 @@
 #   HUBOT_HTTP_INFO_IGNORE_USERS - Comma-separated list of users to ignore
 #
 # Commands:
-#   http(s)://<site> - prints the title and meta description for sites linked.
+#   http(s)://<site> - prints the title
 #
 # Author:
 #   elliottLandsborough
