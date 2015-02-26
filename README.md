@@ -1,21 +1,21 @@
-# Hubot-HTTP-Title
+## Hubot-HTTP-Title
 
-## What is this?
+### What is this?
 
 A script that makes Hubot reply with the title of a page when someone types a url into the channel.
 
-## What is this based on?
+### What is this based on?
 
 This: https://github.com/github/hubot-scripts/blob/master/src/scripts/http-info.coffee
 
-## What are its dependencies?
+### What are its dependencies?
  - node - https://github.com/joyent/node
  - hubot - https://github.com/github/hubot
  - request - https://github.com/request/request
  - cheerio - https://github.com/cheeriojs/cheerio
  - underscore - https://github.com/jashkenas/underscore
 
-## Why does this exist?
+### Why does this exist?
 
 Importing jsdom into a hubot script was broken with this error:
 
